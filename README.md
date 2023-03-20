@@ -1,6 +1,6 @@
 ## ⭐ PacmanGame ⭐
 
-This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
+This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and  CSS**.
 
 ## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/PacmanGame/">**Visit Now** 🚀</a>
 
