@@ -1,38 +1,26 @@
-# [PacmanJs](https://rishabhdevbanshi.github.io/Pacman-Game/)  :video_game:
+## ⭐ PacmanGame ⭐
 
-PacmanJs is a Javascript, HTML and CSS based game that enable you to play with the most charismatic 80's character ever created.
+This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
 
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/PacmanGame/">**Visit Now** 🚀</a>
 
-## How to start :triangular_flag_on_post:
-<img src="https://github.com/bhavesh1129/Pacman-Game/blob/master/PacmanImage.PNG" width="600" height="500">
+<br>
 
-## Installation/Execute :beginner:
+## 📌 Tech Stack
 
-Clone the repository and run index.html on your web browser:
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/souradipporua)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Souradipporua)&nbsp;
 
-```
-git clone https://github.com/RishabhDevbanshi/Pacman-Game.git
-```
+## 📌 Overview
 
-## How to play :sparkles:
-<ul>
-<li>You are the pacman with color <b>yellow</b>.</li>
-<li>Move Pacman using arrow keys.</li>
-<li>Stay away from the colored ghosts. If your pacman comes in contact with colored ghost, the game ends</li>
-<li>Cover the green balls</li>
-</ul>
+<br>
 
-## Contributing :two_men_holding_hands:
+## 📬 Connect With Me
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- **LinkedIn** - [Souradip-Porua](https://www.linkedin.com/in/souradip-porua-a49599192/)
+- **Twitter** - [@porua_souradip](https://twitter.com/porua_souradip)
+# PortfolioWebsite
+# PortfolioWebsite
+# souradipporua-PortfolioWebsite
 
-Please make sure to update the tests if needed.
-
-## License :ledger:
-
-PAC-MAN is a trademark of BANDAI NAMCO ENTERTAINMENT INC.
-This game is developed for educational purpose only.
-
-## Support :raised_hands:
- Don't forget to give this Repository a :star:! 
 # PacmanGame
